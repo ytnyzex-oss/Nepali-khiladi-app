@@ -1,0 +1,11 @@
+background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Nepali khiladi app",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Nepali khiladi app",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Nepali khiladi app"
+}
